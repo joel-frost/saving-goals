@@ -1,5 +1,7 @@
 # SavingGoals
 
+Simple Angular app that allows users to enter multiple saving goals. Outputs a total saving goal as well as a breakdown of how much to save per month to achieve their goals by the specified dates.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
 ## Development server

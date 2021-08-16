@@ -58,7 +58,7 @@ export class AppComponent implements OnInit {
       this.tableData.push(calculatedGoal);
     }
 
-    this.totalString = "Your total savings goal is £" +this.totalSaved+ " You should save these amounts each month:"
+    this.totalString = "Your total savings goal is £" +this.totalSaved+ ". You should save these amounts each month:"
     
 
   }

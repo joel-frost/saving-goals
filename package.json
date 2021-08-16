@@ -13,6 +13,7 @@
     "node": "14.17.4",
     "npm": "7.20.5"
   },
+  "resolutions": { "glob-parent": "^6.0.1" },
   "private": true,
   "dependencies": {
     "@angular/animations": "~12.1.0",
